@@ -1,4 +1,7 @@
-# Commands in English
+#A List of Siri Commands
+
+
+## Commands in English
 ## Conversion
 What are *130* *miles* in *yards* ?
 What are *9000* *meters* in *kilometers* ?
@@ -2359,3 +2362,7 @@ Weinendes Smiley
 
 Zwinkerndes Smiley
 
+
+##Credit
+```
+Hey-Siri.io
